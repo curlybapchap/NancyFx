@@ -1,0 +1,9 @@
+{
+   "frameworks": {
+        "netcoreapp1.0": {
+            "dependencies": {
+                "library":{"target":"project"}
+            }
+        }
+    }
+}
